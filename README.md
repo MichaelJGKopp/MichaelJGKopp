@@ -1,4 +1,5 @@
 Hi, I'm **Michael Kopp** 👋
+
 A Java backend developer focusing on building efficient and scalable applications.
 
 🔭 My skills include Java, Spring Boot, REST APIs, databases (e.g., MySQL, PostgreSQL), and modern development tools.
