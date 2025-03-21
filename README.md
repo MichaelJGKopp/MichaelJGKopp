@@ -1,10 +1,8 @@
-### Hi, my name is **Michael Kopp** 👋
+Hi, I'm **Michael Kopp** 👋
+A Java backend developer focusing on building efficient and scalable applications.
 
+🔭 My skills include Java, Spring Boot, REST APIs, databases (e.g., MySQL, PostgreSQL), and modern development tools.
 
-#### I am a developer and physicist from **Freiburg, Germany**!
+🌱 I'm passionate about leveraging new technologies and best practices to create robust solutions.
 
-
-- 🔭 My skills include c#, html, mysql, php, css, c++, visual studio and matlab.
-- 🌱 I’m currently learning Java and Java Script with focus on backend at DCI.
-
-- 📫 Send me an Email [here](MichaelJG.Kopp@gmail.com)
+📫 Send me an Email [here](MichaelJG.Kopp@gmail.com).
