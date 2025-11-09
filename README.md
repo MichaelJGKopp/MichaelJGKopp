@@ -2,7 +2,7 @@ Hi, I'm **Michael Kopp** 👋
 
 Fullstack Developer and physicist focusing on building efficient and scalable applications.
 
-🔭 My skills include Java, Spring Boot, TS, Angular, React REST, APIs, microservices, databases (e.g., PostgreSQL, MySQL), Docker, and modern development tools.
+🔭 My skills include Java, Spring Boot, TypeScript, Angular, React, REST APIs, modular monoliths, microservices, databases (e.g., PostgreSQL, MySQL), Docker and modern development tools.
 
 🌱 I'm passionate about leveraging new technologies and best practices to create robust solutions.
 
